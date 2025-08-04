@@ -1,4 +1,4 @@
-# ⚡ The-Power-of-One-Voice
+# ⚡ The Power of One Voice
 ## 🎯 Objective <br>
 This project <p>
 ## 🛠️ Tools <br>
