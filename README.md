@@ -1,6 +1,6 @@
 # ⚡ The Power of One Voice
 ## 🎯 Objective <br>
-This project <p>
+This project aims to strengthen Antarang Foundation’s communications by producing engaging social media content that increases awareness, attracts donor support, and promotes career opportunities for young adults in India. <p>
 ## 🛠️ Tools <br>
 • <b>Design:</b> Canva <p>
 ## 📸 Instagram <br>
