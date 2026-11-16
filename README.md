@@ -120,10 +120,6 @@
 <div align="center">
 
   <p>
-    <a href="https://github.com/redefiningvicky/Creative-Projects">
-      Back to Creative Projects
-    </a>
-    &nbsp; • &nbsp;
     <a href="https://github.com/redefiningvicky/redefiningvicky">
       Back to Portfolio
     </a>
